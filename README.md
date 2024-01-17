@@ -1,7 +1,6 @@
-# nike
+# Ecommerce Shoe Mobile App
 
-A new Flutter project.
-
+This is a project which aims to demostrate 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
